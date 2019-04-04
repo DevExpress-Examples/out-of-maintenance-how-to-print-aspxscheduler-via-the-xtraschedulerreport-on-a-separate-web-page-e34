@@ -5,13 +5,13 @@
 * [CustomResources.cs](./CS/WebSite/App_Code/CustomResources.cs) (VB: [CustomResources.vb](./VB/WebSite/App_Code/CustomResources.vb))
 * [DataHelper.cs](./CS/WebSite/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebSite/App_Code/DataHelper.vb))
 * [XtraSchedulerReport1.cs](./CS/WebSite/App_Code/XtraSchedulerReport1.cs) (VB: [XtraSchedulerReport1.vb](./VB/WebSite/App_Code/XtraSchedulerReport1.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-* [DefaultObjectDataSources.ascx](./CS/WebSite/DefaultObjectDataSources.ascx) (VB: [DefaultObjectDataSources.ascx.vb](./VB/WebSite/DefaultObjectDataSources.ascx.vb))
+* [DefaultObjectDataSources.ascx](./CS/WebSite/DefaultObjectDataSources.ascx) (VB: [DefaultObjectDataSources.ascx](./VB/WebSite/DefaultObjectDataSources.ascx))
 * [DefaultObjectDataSources.ascx.cs](./CS/WebSite/DefaultObjectDataSources.ascx.cs) (VB: [DefaultObjectDataSources.ascx.vb](./VB/WebSite/DefaultObjectDataSources.ascx.vb))
-* [ReportingPage.aspx](./CS/WebSite/ReportingPage.aspx) (VB: [ReportingPage.aspx.vb](./VB/WebSite/ReportingPage.aspx.vb))
+* [ReportingPage.aspx](./CS/WebSite/ReportingPage.aspx) (VB: [ReportingPage.aspx](./VB/WebSite/ReportingPage.aspx))
 * [ReportingPage.aspx.cs](./CS/WebSite/ReportingPage.aspx.cs) (VB: [ReportingPage.aspx.vb](./VB/WebSite/ReportingPage.aspx.vb))
-* [ReportPreview.ascx](./CS/WebSite/ReportPreview.ascx) (VB: [ReportPreview.ascx.vb](./VB/WebSite/ReportPreview.ascx.vb))
+* [ReportPreview.ascx](./CS/WebSite/ReportPreview.ascx) (VB: [ReportPreview.ascx](./VB/WebSite/ReportPreview.ascx))
 * [ReportPreview.ascx.cs](./CS/WebSite/ReportPreview.ascx.cs) (VB: [ReportPreview.ascx.vb](./VB/WebSite/ReportPreview.ascx.vb))
 <!-- default file list end -->
 # How to print ASPxScheduler via the XtraSchedulerReport on a separate web page
