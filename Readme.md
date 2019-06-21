@@ -41,6 +41,9 @@
 * [ReportPreview.ascx.cs](./CS/WebSite/ReportPreview.ascx.cs) (VB: [ReportPreview.ascx.vb](./VB/WebSite/ReportPreview.ascx.vb))
 <!-- default file list end -->
 # How to print ASPxScheduler via the XtraSchedulerReport on a separate web page
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3418/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to print ASPxScheduler on a separate web page. For this an invisible ASPxScheduler is placed to this web page (ReportingPage.aspx). This is the simplest method to connect the XtraSchedulerReport to the underlying data (appointments and resources). Note also that you can avoid using invisible ASPxScheduler. This approach is demonstrated in the <a href="https://www.devexpress.com/Support/Center/p/Q322175">Can you generate a XtraSchedulerReport preview/print without having an ASPxScheduler control?</a> thread.</p><p><strong>See also:</strong><br />
